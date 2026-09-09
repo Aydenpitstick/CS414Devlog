@@ -1,11 +1,10 @@
 export default {
-	title: "Eleventy Base Blog v9",
-	url: "https://example.com/",
+	title: "CS414 Devlogs",
+	url: "https://aydenpitstick.github.io/CS414Devlog/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "This is a collection of Devlogs from CS414 Game Production.",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Ayden Pitstick",
+		email: "ayden.pitstick@bsu.edu",
 	}
 }
